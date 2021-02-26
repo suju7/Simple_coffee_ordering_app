@@ -4,4 +4,4 @@ You can choose the number of coffees you'd like to order,
 with the additional option of choosing whipped cream that will cost
 a few extra bucks. 
 After you are done, you can finally share this order to someone through external apps
-like Gmail or WhatsApp.  
+like Gmail or WhatsApp.
