@@ -17,7 +17,7 @@ import java.util.*
 
 class MainActivity : AppCompatActivity() {
 
-    private val cost = 60
+    private val cost = 80
     private val whippedCreamCost = 20
     private var name = ""
     private var msg = ""
