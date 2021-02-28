@@ -11,6 +11,6 @@ The project is a part of Udacity's Android Basics: User Input by Google.
 
 ## App Description
 
-- Using the Android Framework, the user chooses the number of coffee they would like to buy.
+- At first, the user chooses the number of coffee they would like to buy.
 - Additionally, they can put toppings on their coffee that shall cost an extra few bucks.
 - Finally, the user can submit their order and share it to someone using external apps like Gmail or WhatsApp.
